@@ -7,14 +7,6 @@ using namespace std;
 
 int main() {
 
-    int arr[] = { 1, 2, 3, 4, 5 };
-
-    int sum, mul;
-  
-    sumAndProduct(arr, 5, &sum, &mul);
-
-    cout << "The sum of the array elements is " << sum << endl;
-    cout << "The product of the array elements is " << mul << endl;
 
     return 0;
 }
