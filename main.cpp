@@ -31,7 +31,5 @@ int main() {
     return 0;
 }
 
-
-
 // Subject: Pointers. Passing parameters
 // Task for independent work 2
